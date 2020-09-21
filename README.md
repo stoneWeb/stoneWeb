@@ -3,5 +3,4 @@
 </p>
 
 ### Hello, I'm DT. 🔪 😱 🔫 
-
-> BTC: 1C7V1VjfPk8ivEQRVgiZzfy8BsBfkMksaY
+> <img width="18" height="18" src="https://www.blockchain.com/static/img/home/hero-btc.svg"/> Pay me BTC: 1C7V1VjfPk8ivEQRVgiZzfy8BsBfkMksaY
